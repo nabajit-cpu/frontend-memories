@@ -2,7 +2,7 @@
   "name": "mern-stack-client",
   "version": "0.1.0",
   "engines": {
-    "node": "18.3.0"
+    "node": "14.20.0"
   },
   "private": true,
   "dependencies": {
